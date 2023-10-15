@@ -1,0 +1,3 @@
+BuildStart-20:47:47.22 
+     1>C:\Users\miriam\Desktop\shekel test\Dotnet\msbuild.xml(13,5): error MSB3202: The project file ".\Northwind.Customers\Northwind.Customers.csproj" was not found.
+BuildEnd-20:47:49.00 

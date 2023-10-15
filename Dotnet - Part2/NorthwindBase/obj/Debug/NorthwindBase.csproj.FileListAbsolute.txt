@@ -1,0 +1,19 @@
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindBase.xml
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindBase.dll
+d:\northwindTraining\CustomerMigration\Dotnet\bin\NorthwindBase.pdb
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csprojAssemblyReference.cache
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\Northwind.Properties.Resources.resources
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.GenerateResource.cache
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.CoreCompileInputs.cache
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.CopyComplete
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.dll
+d:\northwindTraining\CustomerMigration\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.pdb
+C:\Users\miriam\Desktop\shekel test\Dotnet\bin\NorthwindBase.xml
+C:\Users\miriam\Desktop\shekel test\Dotnet\bin\NorthwindBase.dll
+C:\Users\miriam\Desktop\shekel test\Dotnet\bin\NorthwindBase.pdb
+C:\Users\miriam\Desktop\shekel test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.AssemblyReference.cache
+C:\Users\miriam\Desktop\shekel test\Dotnet\NorthwindBase\obj\Debug\Northwind.Properties.Resources.resources
+C:\Users\miriam\Desktop\shekel test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.GenerateResource.cache
+C:\Users\miriam\Desktop\shekel test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.csproj.CoreCompileInputs.cache
+C:\Users\miriam\Desktop\shekel test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.dll
+C:\Users\miriam\Desktop\shekel test\Dotnet\NorthwindBase\obj\Debug\NorthwindBase.pdb
